@@ -10,7 +10,6 @@ const keycode = () =>{
     key();
     code();
 }
-
 const key = () =>{
     let key = event.key;
     eventKey.innerHTML = key;
